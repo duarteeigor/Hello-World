@@ -1,1 +1,2 @@
-Toda grande historia passou por um pequeno começo, cravo aqui o meu.. "hello-world"
+Extra;
+console.log("Exercicio de conclusão da primeira aula do Curso de Desenvolvimento Full Stack");
